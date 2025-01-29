@@ -1,4 +1,4 @@
 # Git-demo
 This is my first git repository
 <br>
-Vaibhav is my name
+Vaibhav Gupta is my name
